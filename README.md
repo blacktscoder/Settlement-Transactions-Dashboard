@@ -2,7 +2,7 @@
 
 Welcome to the Settlement Transactions Dashboard application! This application allows users to view their transaction history with details such as amount, date, description, and status. The dashboard provides filtering and sorting functionalities for a seamless user experience.
 
-![Image Description](https://example.com/path/to/your/image.png)
+![Dashboard](images/Dashboard.png)
 
 
 ## Backend
